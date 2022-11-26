@@ -1,0 +1,36 @@
+#cont {
+  border-radius: 12px;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  margin-top: 10%;
+  margin-bottom: 10%;
+  padding: 20px;
+}
+
+#row {
+  padding: 5px;
+}
+
+#foot {
+  margin: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#cardbody {
+  background-color: bisque;
+}
+
+img {
+  height: 200px;
+  width: 20px;
+}
+
+h4 {
+  display: flex;
+  padding-left: 20px;
+}
+
+h6 {
+  display: flex;
+  padding-left: 20px;
+}
